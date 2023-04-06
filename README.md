@@ -12,7 +12,7 @@
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | 6 | 16 | ft_transcendance | Pong game | ? | TS |
 | 5 | 15 | Inception | Creating 3 docker container | ? | |
-| 5 | 14 | ft_irc | IRC server in C++ | ? | C++ 98 |
+| 5 | 14 | ft_irc | IRC server in C++ | 110 | C++ 98 |
 | 5 | 13 | CPP Module 05 -> 09 | CPP pool | ? | C++ 98 |
 | 4 | 12 | cub3d | Raycasting | 125 | C |
 | 4 | 11 | NetPractice | Networking | 100 | |
