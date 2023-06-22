@@ -2,7 +2,7 @@
 
 <h3 align="center">I am a developer, currently a student at 42 Angoulême !</h3>
 
-<h3 align="left">Contact me: <a href="https://discord.gg/aoniii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aoniii" height="42" width="56" /><span>Aoni#0142</span></a></h3>
+<h3 align="left">Contact me: <a href="https://discord.gg/aoniii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Aoniii" height="42" width="56" /><span>Aoniii</span></a></h3>
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clfx9py73000608mpgchk2n2o/stats?cursusId=21&coalitionId=218" alt="snourry's 42 stats" /></a>
 
