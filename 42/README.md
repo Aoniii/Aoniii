@@ -1,4 +1,4 @@
-# École 42 — Projects
+# 42 — Projects
 
 [← Back to profile](../README.md)
 
