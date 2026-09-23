@@ -23,16 +23,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 </p>
 
-### 📊 Stats
-
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aoniii&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" />
-</p>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
 ### 🚩 CTF
 
 Reverse engineering, pwn, binary exploitation.
